@@ -1,7 +1,7 @@
 ---
 title: LinkMemo
-publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
+publishDate: 2019-03-01 00:00:00
+img: /assets/linkmemo.png
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
   LinkMemo is the simplest 'Read Later' Chrome Extension. You can easily save the URL and title of any page with a single click.

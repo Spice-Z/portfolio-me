@@ -1,8 +1,8 @@
 ---
 title: Listen
-publishDate: 2019-10-02 00:00:00
-img: /assets/stock-4.jpg
-img_alt: Soft pink and baby blue water ripples together in a subtle texture.
+publishDate: 2023-10-01 00:00:00
+img: /assets/listen.png
+img_alt: Listen's logo
 description: |
   Listen is a podcast player app that helps people study English. Created with React Native, it was available on both iOS and Android.
 tags:

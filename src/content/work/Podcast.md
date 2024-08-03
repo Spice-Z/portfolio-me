@@ -1,8 +1,8 @@
 ---
 title: Podcast
 publishDate: 2022-09-01 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img: /assets/podcast.png
+img_alt: artwork of podcast
 description: |
   I'm hosting a podcast "IT Trio", in which I'm talking about engineer's career and work. I'm sharing my experience and knowledge with the audience. Weekly episodes are available on Spotify, Apple Podcasts, and Youtube.
 tags:

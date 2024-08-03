@@ -1,8 +1,8 @@
 ---
 title: CoraPic
-publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+publishDate: 2020-05-01 00:00:00
+img: /assets/corapic.png
+img_alt: CoraPic logo
 description: |
   CoraPic is a meme generator site. You can create many meme pictures with no effort. All image processing is done in the browser, making CoraPic's image editing incredibly fast!
 tags:
