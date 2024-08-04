@@ -3,8 +3,7 @@ title: CoraPic
 publishDate: 2020-05-01 00:00:00
 img: /assets/corapic.png
 img_alt: CoraPic logo
-description: |
-  CoraPic is a meme generator site. You can create many meme pictures with no effort. All image processing is done in the browser, making CoraPic's image editing incredibly fast!
+description: Meme generator site
 tags:
   - Web
   - React
@@ -14,25 +13,22 @@ tags:
   - Node.js
 ---
 
-## Level-two heading
+[Link to CoraPic](https://cora-pic.com)
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+CoraPic is a meme generator site. You can create many meme pictures with no effort. All image processing is done in the browser, making CoraPic's image editing incredibly fast!
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+CoraPic has a bunch of meme templates.
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+By uploading your own image, or inputting text, you can create your own meme just in a few seconds.
 
-### Level-three heading
+| Light Theme | Dark Theme |
+|--------|--------|
+| ![CoraPic](/assets/corapic/light.png) | ![CoraPic](/assets/corapic/dark.png) |
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
 
-### Level-three heading
+All of the image processing is done in the browser by [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API), making CoraPic's image editing incredibly fast!
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+I'm getting small revenue from ads on the site.
+It's not much, but it's a good motivation for me to keep updating the site. 😊
 
-#### Level-four heading
-
-- We noted this
-- And also this other point
