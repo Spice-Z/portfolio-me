@@ -6,6 +6,7 @@ publishDate: 2020-05-01 00:00:00
 img: /assets/corapic.png
 img_alt: CoraPic logo
 description: Meme generator site
+priority: 4
 tags:
   - Web
   - React

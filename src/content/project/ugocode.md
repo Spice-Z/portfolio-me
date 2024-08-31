@@ -7,6 +7,7 @@ img: /assets/ugocode.png
 img_alt: UgoCode's logo
 description: |
   UgoCode is a powerful tool designed to create awesome code diff animations. It is specifically built for developers who want to showcase their code changes in a visually appealing and engaging way.
+priority: 2
 tags:
   - Web
   - Astro

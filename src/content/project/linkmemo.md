@@ -6,6 +6,7 @@ publishDate: 2019-03-01 00:00:00
 img: /assets/linkmemo.png
 img_alt: LinkMemo logo
 description: The simplest 'Read Later' Chrome Extension
+priority: 5
 tags:
   - Browser Extension
   - Preact

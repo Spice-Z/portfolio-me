@@ -8,6 +8,7 @@ export const collections = {
       productLink: z.string().optional(),
       productLinkText: z.string().optional(),
       description: z.string(),
+      priority: z.number(),
       publishDate: z.coerce.date(),
       tags: z.array(z.string()),
       img: z.string(),
