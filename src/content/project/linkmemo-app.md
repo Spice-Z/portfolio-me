@@ -25,3 +25,21 @@ tags:
 <br>
 
 ![feature](/assets/linkmemo-app/feature.png)
+
+<br>
+
+<video style="width: 100%; border: 1px solid black; border-radius: 8px;" autoplay>
+  <source src="/assets/linkmemo-app/how-to-add.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br>
+<br>
+
+<div style="display: grid; place-items:center;">
+<video style="width: 70%; border: 1px solid black; border-radius: 8px;" autoplay>
+  <source src="/assets/linkmemo-app/use-example.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</dib>
+<br>
