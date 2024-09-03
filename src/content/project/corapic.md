@@ -18,6 +18,25 @@ tags:
 
 ## Story
 
+I often use meme pictures as a way to communicate with people at work or in my personal life.
+
+<br />
+
+However, I found that it was troublesome to create a meme picture every time I wanted to use one.
+
+It takes time to find a suitable image, edit it, and add text to it.
+
+<br />
+
+So I decided to create a meme generator site that would allow me to create meme pictures quickly and easily.
+
+I achieved the ease of use by reducing the number of steps required to create a meme picture.
+
+<br />
+
+Now CoraPic has a many users. The average number of meme pictures created per month is over 10,000.
+
+
 ## Features
 
 CoraPic is a meme generator site. You can create many meme pictures with no effort. All image processing is done in the browser, making CoraPic's image editing incredibly fast!
