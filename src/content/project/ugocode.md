@@ -12,6 +12,7 @@ tags:
   - Web
   - Astro
   - TypeScript
+  - Cloudflare
 ---
 
 ## Story

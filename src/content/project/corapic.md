@@ -12,6 +12,7 @@ tags:
   - React
   - Next.js
   - TypeScript
+  - AWS
   - Cloudflare
   - Node.js
 ---
